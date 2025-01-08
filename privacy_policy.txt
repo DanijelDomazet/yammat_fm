@@ -1,0 +1,8 @@
+Privacy Policy for Yammat FM add-on
+
+• This extension does NOT collect any user identifiable information (such as IP-address, cookies, location, etc.)
+
+• This extension does NOT have any background activities. It only plays audio stream if you click on the Play button.
+
+• This extension does NOT sync or send any information to any remote server.
+
