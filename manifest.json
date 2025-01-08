@@ -1,0 +1,20 @@
+{
+   "action": {
+      "default_popup": "popup/popup.html"
+   },
+   "background": {
+      "service_worker": "background/background.js"
+   },
+   "description": "Yammat FM radio, Zagreb, Croatia.",
+   "icons": {
+    "16": "img/icons/ym16x16.png",
+    "32": "img/icons/ym32x32.png",
+    "58": "img/icons/ym58x58.png",
+    "120": "img/icons/ym120x120.png"
+  },
+   "manifest_version": 3,
+   "name": "Yammat FM",
+   "permissions": [ "offscreen" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}
