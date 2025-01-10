@@ -24,7 +24,7 @@
              await chrome.offscreen.createDocument({
                  url: '../offscreen/offscreen.html',
                  reasons: ['AUDIO_PLAYBACK'],
-                 justification: 'testing'
+                 justification: 'Background audio playback'
              });
          }
      } catch (error) {
